@@ -34,3 +34,8 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+model_*.RDS
+/data0/
+/data1/
+selenium-server*
