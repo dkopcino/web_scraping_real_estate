@@ -2,3 +2,6 @@ model_*.RDS
 /data0/
 /data1/
 selenium-server*
+*driver*.exe
+*Driver*.exe
+wdman_0.2.2.tar.gz
